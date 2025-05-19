@@ -2,3 +2,4 @@ Nome: Daniel Ferreira Rosa
 Turma: PFUS-01
 Unidade curricular: Versionamento
 Empresa: ACP-Indústria de móveis Ltda
+Frase:: "O versionamento é a espinha dorsal do desenvolvimento colaborativo, permitindo rastrear mudanças, recuperar históricos e evitar conflitos de código."
